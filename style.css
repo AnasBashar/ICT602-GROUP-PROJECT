@@ -40,3 +40,10 @@
 .container-fluid .container form {
 
 }
+.text-uppercase.text-left strong em {
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    text-decoration: overline;
+    text-shadow: 0px 0px 2px;
+    opacity: 1;
+}
